@@ -44,5 +44,7 @@ Finally, there are 19 studies were included in this systematic review, and I wil
 
 19. Li, S., Tian, X., Ip, B., Feng, X., Ip, H. L., Abrigo, J., Lan, L., Liu, H., Zheng, L., Liu, Y., Liu, Y., Ma, K. K., Fan, F. S., Ma, S. H., Fang, H., Xu, Y., Lau, A. Y., Leung, H., Soo, Y. O., Mok, V. C., … Leung, T. W. (2024). Cerebral hemodynamics and stroke risks in symptomatic intracranial atherosclerotic stenosis with internal versus cortical borderzone infarcts: A computational fluid dynamics study. Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism, 44(4), 516–526. https://doi.org/10.1177/0271678X231211449
 
+20. Chen, Z., Liu, J., Wang, A., Wu, B., Cheng, Z., Jiang, Y., Gu, H., Ding, L., Mo, J., Jiang, Y., Liu, L., Jing, L., Jing, J., Wang, Y., Zhao, X., Wang, Y., Qin, H., & Li, Z. (2024). Hemodynamic Impairment of Blood Pressure and Stroke Mechanisms in Symptomatic Intracranial Atherosclerotic Stenosis. Stroke, 10.1161/STROKEAHA.123.046051. Advance online publication. https://doi.org/10.1161/STROKEAHA.123.046051
+
 ## Qualified Studies in Other Databases
 1. Chen, Yuwen, et al. Non-invasive Assessment of Intracranial Wall Shear Stress Using High-resolution Magnetic Resonance Imaging in Combination with Computational Fluid Dynamics Technique. KeAi Communications Co. Ltd.
