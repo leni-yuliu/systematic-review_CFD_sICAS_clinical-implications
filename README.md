@@ -46,5 +46,8 @@ Finally, there are 19 studies were included in this systematic review, and I wil
 
 20. Chen, Z., Liu, J., Wang, A., Wu, B., Cheng, Z., Jiang, Y., Gu, H., Ding, L., Mo, J., Jiang, Y., Liu, L., Jing, L., Jing, J., Wang, Y., Zhao, X., Wang, Y., Qin, H., & Li, Z. (2024). Hemodynamic Impairment of Blood Pressure and Stroke Mechanisms in Symptomatic Intracranial Atherosclerotic Stenosis. Stroke, 10.1161/STROKEAHA.123.046051. Advance online publication. https://doi.org/10.1161/STROKEAHA.123.046051
 
+21. Huang K, Yao W, Song Z, et alPrognostic value of angiographic based quantitative flow ratio and anatomic features in intracranial atherosclerotic stenosisJournal of NeuroInterventional Surgery Published Online First: 26 July 2024. doi: 10.1136/jnis-2024-022007 
+
+
 ## Qualified Studies in Other Databases
 1. Chen, Yuwen, et al. Non-invasive Assessment of Intracranial Wall Shear Stress Using High-resolution Magnetic Resonance Imaging in Combination with Computational Fluid Dynamics Technique. KeAi Communications Co. Ltd.
