@@ -46,8 +46,20 @@ Finally, there are 19 studies were included in this systematic review, and I wil
 
 20. Chen, Z., Liu, J., Wang, A., Wu, B., Cheng, Z., Jiang, Y., Gu, H., Ding, L., Mo, J., Jiang, Y., Liu, L., Jing, L., Jing, J., Wang, Y., Zhao, X., Wang, Y., Qin, H., & Li, Z. (2024). Hemodynamic Impairment of Blood Pressure and Stroke Mechanisms in Symptomatic Intracranial Atherosclerotic Stenosis. Stroke, 10.1161/STROKEAHA.123.046051. Advance online publication. https://doi.org/10.1161/STROKEAHA.123.046051
 
-21. Huang K, Yao W, Song Z, et alPrognostic value of angiographic based quantitative flow ratio and anatomic features in intracranial atherosclerotic stenosisJournal of NeuroInterventional Surgery Published Online First: 26 July 2024. doi: 10.1136/jnis-2024-022007 
+21. Huang, K., Yao, W., Song, Z., Jia, X., Gao, J., Liu, R., Han, Y., Liu, X., Du, J., Tu, S., & Zhu, W. (2024). Prognostic value of angiographic based quantitative flow ratio and anatomic features in intracranial atherosclerotic stenosis. Journal of neurointerventional surgery, jnis-2024-022007. Advance online publication. https://doi.org/10.1136/jnis-2024-022007
 
 
 ## Qualified Studies in Other Databases
 1. Chen, Yuwen, et al. Non-invasive Assessment of Intracranial Wall Shear Stress Using High-resolution Magnetic Resonance Imaging in Combination with Computational Fluid Dynamics Technique. KeAi Communications Co. Ltd.
+
+## Study verifying the CFD-based hemodynamic parameters with invasively/non-invasively measured counterparts
+
+1. Yang, P., Wan, S., Wang, J., Hu, Y., Ma, N., Wang, X., Zhang, Y., Zhang, L., Zhu, X., Shen, F., Zheng, Q., Wang, M., Leng, X., Fiehler, J., Siddiqui, A. H., Miao, Z., Xiang, J., & Liu, J. (2024). Hemodynamic assessment for intracranial atherosclerosis from angiographic images: a clinical validation study. Journal of neurointerventional surgery, 16(2), 204–208. https://doi.org/10.1136/jnis-2023-020073
+
+2. Xiang, J., Zhang, L., Rong, C., Zou, R., Hu, Y., Zhang, Y., Wang, M., Fiehler, J., Siddiqui, A. H., Wang, J., Miao, Z., Yang, P., Wan, S., & Liu, J. (2024). Diagnostic accuracy of hemodynamic assessment of intracranial atherosclerotic stenosis from a single angiographic view: a validation study. Journal of neurointerventional surgery, jnis-2024-022114. Advance online publication. https://doi.org/10.1136/jnis-2024-022114
+
+3. Wang, X., Bian, Y., Zhang, R., Zhu, H., Yang, J., Wang, R., Liu, X., Lv, B., Cao, X., Dai, W., Sun, Z., Jing, J., Du, Z., Yu, S., & Wang, J. (2024). Hemodynamic assessment of intracranial atherosclerotic stenosis: comparison between invasive non-hyperemic pressure ratio and angiography-derived quantitative flow ratio. Frontiers in neurology, 15, 1466864. https://doi.org/10.3389/fneur.2024.1466864
+
+4. Zhao, X., Bai, L., Raynald, He, J., Han, B., Xu, X., Miao, Z., & Mo, D. (2025). A computational method to predict cerebral perfusion flow after endovascular treatment based on invasive pressure and resistance. Computer methods and programs in biomedicine, 258, 108510. https://doi.org/10.1016/j.cmpb.2024.108510
+
+
