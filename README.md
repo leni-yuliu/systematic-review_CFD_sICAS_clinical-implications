@@ -52,7 +52,7 @@ Finally, there are 19 studies were included in this systematic review, and I wil
 ## Qualified Studies in Other Databases
 1. Chen, Yuwen, et al. Non-invasive Assessment of Intracranial Wall Shear Stress Using High-resolution Magnetic Resonance Imaging in Combination with Computational Fluid Dynamics Technique. KeAi Communications Co. Ltd.
 
-## Study verifying the CFD-based hemodynamic parameters with invasively/non-invasively measured counterparts
+## Studies verifying the CFD-based hemodynamic parameters with invasively/non-invasively measured counterparts
 
 1. Yang, P., Wan, S., Wang, J., Hu, Y., Ma, N., Wang, X., Zhang, Y., Zhang, L., Zhu, X., Shen, F., Zheng, Q., Wang, M., Leng, X., Fiehler, J., Siddiqui, A. H., Miao, Z., Xiang, J., & Liu, J. (2024). Hemodynamic assessment for intracranial atherosclerosis from angiographic images: a clinical validation study. Journal of neurointerventional surgery, 16(2), 204–208. https://doi.org/10.1136/jnis-2023-020073
 
