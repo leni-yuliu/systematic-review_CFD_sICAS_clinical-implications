@@ -48,6 +48,9 @@ Finally, there are 19 studies were included in this systematic review, and I wil
 
 21. Huang, K., Yao, W., Song, Z., Jia, X., Gao, J., Liu, R., Han, Y., Liu, X., Du, J., Tu, S., & Zhu, W. (2024). Prognostic value of angiographic based quantitative flow ratio and anatomic features in intracranial atherosclerotic stenosis. Journal of neurointerventional surgery, jnis-2024-022007. Advance online publication. https://doi.org/10.1136/jnis-2024-022007
 
+22. Li, J., Wang, L., Zhang, Y., Zhu, X., Zhang, X., Hua, W., Chen, R., Liu, H., Yin, W., Xiang, J., Xing, P., Li, Z., Zhao, R., Zhang, Y., Liu, J., Dai, D., Zhang, L., & Yang, P. (2025). Hemodynamic evaluation of symptomatic and asymptomatic intracranial atherosclerotic stenosis using cerebral angiographic images: an exploratory study. Journal of neurointerventional surgery, jnis-2024-022455. Advance online publication. https://doi.org/10.1136/jnis-2024-022455
+
+23. Hattori, Y., Imada, S., Usui, R., Yamamoto, A., Nakamura, M., & Ihara, M. (2025). High Middle Cerebral Artery Wall Shear Stress in Branch Atheromatous Disease: A Computational Fluid Dynamics Analysis. Journal of atherosclerosis and thrombosis, 10.5551/jat.65439. Advance online publication. https://doi.org/10.5551/jat.65439
 
 ## Qualified Studies in Other Databases
 1. Chen, Yuwen, et al. Non-invasive Assessment of Intracranial Wall Shear Stress Using High-resolution Magnetic Resonance Imaging in Combination with Computational Fluid Dynamics Technique. KeAi Communications Co. Ltd.
