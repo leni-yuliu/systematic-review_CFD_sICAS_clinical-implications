@@ -2,7 +2,9 @@
 
 Following the PRISMA and MOOSE statement, we searched PubMed and EMBASE database from Jan 2000 to Mar 2024 for studies on using computational fluid dynamics (CFD) technique to investigate the association between hemodynamic metrics and clinical implications in symptomatic intracranial atherosclerotic stenosis (sICAS).
 
-Finally, there are 19 studies were included in this systematic review, and I will continuously update this review when more relevant studies are published.
+**Finally, 19 studies were included in this systematic review, and the article was published on [Stroke Vas Neurol](https://doi.org/10.1136/svn-2024-003202).**
+
+Due to the time sentivity of systematic review，I will continuously update the included studies when more relevant studies are published.
 
 ## Included Studies
 
