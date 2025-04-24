@@ -54,6 +54,8 @@ Due to the time sentivity of systematic review，I will continuously update the 
 
 23. Hattori, Y., Imada, S., Usui, R., Yamamoto, A., Nakamura, M., & Ihara, M. (2025). High Middle Cerebral Artery Wall Shear Stress in Branch Atheromatous Disease: A Computational Fluid Dynamics Analysis. Journal of atherosclerosis and thrombosis, 10.5551/jat.65439. Advance online publication. https://doi.org/10.5551/jat.65439
 
+24. Wang, M., Zheng, W., Zou, R., Tang, J., Chen, R., Gao, Y., Wang, N., Lu, Y., Fiehler, J., Siddiqui, A. H., Xiang, J., & Wan, S. (2025). Correlation of computed fractional flow and in-stent restenosis in patients with intracranial atherosclerotic stenosis. Journal of neurointerventional surgery, jnis-2025-023079. Advance online publication. https://doi.org/10.1136/jnis-2025-023079
+
 ## Qualified Studies in Other Databases
 1. Chen, Yuwen, et al. Non-invasive Assessment of Intracranial Wall Shear Stress Using High-resolution Magnetic Resonance Imaging in Combination with Computational Fluid Dynamics Technique. KeAi Communications Co. Ltd.
 
