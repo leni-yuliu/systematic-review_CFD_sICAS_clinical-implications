@@ -4,7 +4,8 @@ Following the PRISMA and MOOSE statement, we searched PubMed and EMBASE database
 
 **Finally, 19 studies were included in this systematic review, and the article was published on [Stroke Vas Neurol](https://doi.org/10.1136/svn-2024-003202).**
 
-Due to the time sentivity of systematic review，I will continuously update the included studies when more relevant studies are published.
+> **⚠️ Due to the time sensitivity of systematic review, I will continuously update the included studies when more relevant studies are published.**
+
 
 ## Included Studies
 
@@ -70,3 +71,10 @@ Due to the time sentivity of systematic review，I will continuously update the 
 4. Zhao, X., Bai, L., Raynald, He, J., Han, B., Xu, X., Miao, Z., & Mo, D. (2025). A computational method to predict cerebral perfusion flow after endovascular treatment based on invasive pressure and resistance. Computer methods and programs in biomedicine, 258, 108510. https://doi.org/10.1016/j.cmpb.2024.108510
 
 
+## Studies with small sample size
+1. Liu, H., Liu, Y., Ip, B. Y. M., Ma, S. H., Abrigo, J., Soo, Y. O. Y., Leung, T. W., & Leng, X. (2022). Effects of stent shape on focal hemodynamics in intracranial atherosclerotic stenosis: A simulation study with computational fluid dynamics modeling. Frontiers in neurology, 13, 1067566. https://doi.org/10.3389/fneur.2022.1067566
+
+2. Liu, Y., Yan, Z., Li, Z., Liu, Y., Ma, S. H., Ip, B. Y. M., Leung, T. W. H., Liu, J., & Leng, X. (2025). Is invasive fractional flow measurement accurate in intracranial stenosis? A computational simulation study. Journal of neurointerventional surgery, jnis-2025-023342. Advance online publication. https://doi.org/10.1136/jnis-2025-023342
+
+## Studies leveraging advanced technique (machine learning...) combined with CFD
+1. Yin, X., Zhao, Y., Huang, F., Wang, H., & Fang, Q. (2025). Machine Learning-Based Classification of Anterior Circulation Cerebral Infarction Using Computational Fluid Dynamics and CT Perfusion Metrics. Brain sciences, 15(4), 399. https://doi.org/10.3390/brainsci15040399
