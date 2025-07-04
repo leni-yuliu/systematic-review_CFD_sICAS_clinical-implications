@@ -57,6 +57,8 @@ Following the PRISMA and MOOSE statement, we searched PubMed and EMBASE database
 
 24. Wang, M., Zheng, W., Zou, R., Tang, J., Chen, R., Gao, Y., Wang, N., Lu, Y., Fiehler, J., Siddiqui, A. H., Xiang, J., & Wan, S. (2025). Correlation of computed fractional flow and in-stent restenosis in patients with intracranial atherosclerotic stenosis. Journal of neurointerventional surgery, jnis-2025-023079. Advance online publication. https://doi.org/10.1136/jnis-2025-023079
 
+25. Liu, Y., Tian, X., Abrigo, J., Li, S., Liu, Y., Lan, L., Liu, H., Ip, B. Y. M., Ma, S. H., Ma, K., Fan, F. S. Y., Ip, H. L., Soo, Y. O. Y., Leung, H., Mok, V. C. T., Leung, T. W., & Leng, X. (2025). Enlarged translesional pressure gradient drives recruitment of leptomeningeal collaterals in medically treated patients with symptomatic middle cerebral artery stenosis. Cerebrovascular diseases (Basel, Switzerland), 1–17. Advance online publication. https://doi.org/10.1159/000547147
+
 ## Qualified Studies in Other Databases
 1. Chen, Yuwen, et al. Non-invasive Assessment of Intracranial Wall Shear Stress Using High-resolution Magnetic Resonance Imaging in Combination with Computational Fluid Dynamics Technique. KeAi Communications Co. Ltd.
 
